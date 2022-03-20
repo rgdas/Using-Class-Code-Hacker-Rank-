@@ -1,1 +1,1 @@
-# Using-Class-Code-Hacker-Rank-
+# Using-Class-Code-HackerRank
